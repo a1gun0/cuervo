@@ -50,7 +50,7 @@ go version
 Clonar el repositorio:
 
 ```
-git clone https://github.com/usuario/cuervo.git
+git clone https://github.com/a1gun0/cuervo
 cd cuervo
 ```
 
